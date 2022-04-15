@@ -69,7 +69,7 @@ namespace CalculatorGUI
             this.Equals.Size = new System.Drawing.Size(63, 50);
             this.Equals.TabIndex = 32;
             this.Equals.Text = "=";
-            this.Equals.Click += new System.EventHandler(this.Equals_Click);
+            this.Equals.Click += new System.EventHandler(this.eClick);
             // 
             // Decimal
             // 
